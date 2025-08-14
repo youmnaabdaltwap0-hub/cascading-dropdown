@@ -1,0 +1,18 @@
+{
+    "Beatles": [
+        { "name": "Paul McCartney", "link": "https://www.paulmccartney.com" },
+        { "name": "John Lennon", "link": "https://www.johnlennon.com" },
+        { "name": "George Harrison", "link": "https://www.georgeharrison.com" },
+        { "name": "Ringo Starr", "link": "https://www.ringostarr.com" }
+    ],
+    "Rolling Stones": [
+        { "name": "Mick Jagger", "link": "https://www.mickjagger.com" },
+        { "name": "Keith Richards", "link": "https://www.keithrichards.com" }
+    ],
+    "Genesis": [
+        { "name": "Phil Collins", "link": "https://www.philcollins.com" }
+    ],
+    "Eagles": [
+        { "name": "Don Henley", "link": "https://www.donhenley.com" }
+    ]
+}
